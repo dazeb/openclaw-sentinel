@@ -7,7 +7,7 @@ A comprehensive script to organize, secure, and backup any OpenClaw workspace.
 ### One-line Installation
 ```bash
 # Install organizer to your workspace
-curl -sSL https://raw.githubusercontent.com/dazeb/sentinel-workspace/main/scripts/install-organizer.sh | bash
+curl -sSL https://raw.githubusercontent.com/dazeb/openclaw-workspace-organizer/main/install.sh | bash
 ```
 
 ### Quick Organization
@@ -343,7 +343,8 @@ The organizer is open for improvements:
 ### Documentation
 - [OpenClaw Docs](https://docs.openclaw.ai)
 - [Workspace Guide](https://docs.openclaw.ai/workspace)
-- [GitHub Repository](https://github.com/dazeb/sentinel-workspace)
+- [GitHub Repository](https://github.com/dazeb/openclaw-workspace-organizer)
+- [Release v2.0.0](https://github.com/dazeb/openclaw-workspace-organizer/releases/tag/v2.0.0)
 
 ## 📄 License
 
@@ -351,8 +352,8 @@ MIT License - See LICENSE file
 
 ## 🏷️ Version
 
-Current version: 1.0.0
-Last updated: $(date +%Y-%m-%d)
+Current version: 2.0.0
+Last updated: 2026-02-04
 
 ---
 
