@@ -1,8 +1,11 @@
-# 🦞 OpenClaw Workspace Organizer 🦞
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_u7twfbu7twfbu7tw" src="https://github.com/user-attachments/assets/d1b52dc1-fa55-4ab2-82ac-2e3d7967e9dc" />
+
+# 🛡️ OpenClaw Sentinel 🛡️
 
 A comprehensive script to organize, secure, and backup any OpenClaw workspace. Built by and for the OpenClaw 🦞 community.
 
-## 🚀 Quick Start
+## 🦞 Quick Start
 
 ### One-line Installation
 ```bash
@@ -366,8 +369,8 @@ The organizer is open for improvements:
 ### Documentation
 - [OpenClaw Docs](https://docs.openclaw.ai)
 - [Workspace Guide](https://docs.openclaw.ai/workspace)
-- [GitHub Repository](https://github.com/dazeb/openclaw-workspace-organizer)
-- [Release v2.0.0](https://github.com/dazeb/openclaw-workspace-organizer/releases/tag/v2.0.0)
+- [GitHub Repository](https://github.com/dazeb/openclaw-sentinel)
+- [Release v2.0.0](https://github.com/dazeb/openclaw-sentinel/releases/tag/v2.0.0)
 
 ## 📄 License
 
