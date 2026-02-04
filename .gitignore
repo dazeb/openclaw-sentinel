@@ -1,0 +1,14 @@
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Ignore test directories
+test/
+tmp/
+
+# Ignore IDE files
+.vscode/
+.idea/
+.DS_Store
