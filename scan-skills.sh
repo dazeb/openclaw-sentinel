@@ -1,7 +1,9 @@
 #!/bin/bash
 #
-# Skill Scanner Wrapper Script
-# Makes it easy to run security scans on OpenClaw skills
+# OpenClaw Sentinel Skill Scanner
+# Developed by Darren Bennett (@dazebdotdev)
+#
+# A security scanning suite for OpenClaw skills.
 #
 
 set -euo pipefail

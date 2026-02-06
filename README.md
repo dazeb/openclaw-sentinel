@@ -3,7 +3,9 @@
 
 # 🛡️ OpenClaw Sentinel 🛡️
 
-A comprehensive script to organize, secure, and backup any OpenClaw workspace. Built by and for the OpenClaw 🦞 community.
+A comprehensive security and management suite for OpenClaw workspaces.
+
+**Maintained by:** Darren Bennett ([@dazebdotdev](https://x.com/dazebdotdev))
 
 ## 🦞 Quick Start
 
